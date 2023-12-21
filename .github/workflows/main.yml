@@ -1,4 +1,4 @@
-        - name: Markdown-HTML
+- name: Markdown-HTML
   # You may pin to the exact commit or the version.
   # uses: ZacJW/markdown-html-action@581e6df07c787a1eb980cb2fd6c0c82ace9c9c82
   uses: ZacJW/markdown-html-action@1.2.0
